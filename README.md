@@ -1,31 +1,31 @@
-#💫 Hi 👋, I'm Subhit Singh
-#A passionate Machine Learning Enthusiast | Data Science Learner | Python Developer from India 🇮🇳
+💫 Hi 👋, I'm Subhit Singh
+A passionate Machine Learning Enthusiast | Data Science Learner | Python Developer from India 🇮🇳
 
-#📧 Email Me 👉 thakursubhitsingh@gmail.com
+📧 Email Me 👉 thakursubhitsingh@gmail.com
 
-#🔭 Currently working on:
-#Building Machine Learning projects like Laptop Price Prediction & Healthcare Models
+🔭 Currently working on:
+Building Machine Learning projects like Laptop Price Prediction & Healthcare Models
 
-#🌱 Currently learning:
-#Machine Learning, Data Science, and Streamlit Deployment
+🌱 Currently learning:
+Machine Learning, Data Science, and Streamlit Deployment
 
-#👯 Looking to collaborate on:
-#ML/DL projects, especially real-world problem-solving apps
+👯 Looking to collaborate on:
+ML/DL projects, especially real-world problem-solving apps
 
-#🤔 Looking for help with:
-#Advanced ML concepts, MLOps, and deployment strategies
+🤔 Looking for help with:
+Advanced ML concepts, MLOps, and deployment strategies
 
-#💬 Ask me about:
-#Machine Learning, Python, Data Analysis, and Projects
+💬 Ask me about:
+Machine Learning, Python, Data Analysis, and Projects
 
-#📫 How to reach me:
-#thakursubhitsingh@gmail.com
+📫 How to reach me:
+thakursubhitsingh@gmail.com
 
-#😄 Pronouns:
-#He/Him
+😄 Pronouns:
+He/Him
 
-#⚡ Fun fact:
-#I love solving real-world problems using code 🚀
+⚡ Fun fact:
+I love solving real-world problems using code 🚀
 
 
 
